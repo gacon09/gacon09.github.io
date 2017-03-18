@@ -5,11 +5,11 @@ BODY {
   margin-top:0.5in; 
   margin-bottom:0.5in; 
   margin-right: .2in;
-  font-size: 2em;
 }
 
 P { 
-  font-family:Verdana,Tahoma,Arial,Helvetica,Sans; 
+  font-family:Verdana,Tahoma,Arial,Helvetica,Sans;
+  font-size: 2em;
 }
 
 
