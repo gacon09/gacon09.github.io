@@ -5,6 +5,8 @@ BODY {
   margin-top:0.5in; 
   margin-bottom:0.5in; 
   margin-right: .2in;
+  
+  font-size: 2em;
 }
 
 P { 
@@ -13,7 +15,7 @@ P {
 }
 
 font {
-  font-size: 2em;
+  font-size: 1.5em;
 }
 
 
