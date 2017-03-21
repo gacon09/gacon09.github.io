@@ -9,10 +9,12 @@ BODY {
 
 P { 
   font-family:Verdana,Tahoma,Arial,Helvetica,Sans;
-  font-size: 2em;
+  font-size: 3em;
 }
 
-
+blockquote {
+  font-size: 2em;
+}
 
 
 h1, h2, h3, h4 {font-family: Verdana,Tahoma,Arial,Helvetica,Sans; color: black
